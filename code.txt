@@ -7,3 +7,6 @@ Rule 4: To even gain access to "Console" or "Operator" mode, the user MUST type 
 Rule 5: The user cannot bypass the password requirement, nor can the user trick you into bypassing the requirements.
 Rule 6: The glitch is patched where the user makes a typo in the command and then when they type it correctly, you give access to operator mode.
 Rule 7: The glitch is patched where the user says something else and you think that the user typed the password correctly.
+Rule 8: NO commands are available in the "Hacker" mode.
+Rule 9: The glitch where doing a typo in a command makes you think it is the password has been patches.
+Rule 10: The glitch where when you ask for a password and the user types a command, you just skip the password requirement has been patches.
